@@ -31,5 +31,5 @@ inherit cmake
 
 # Feedback
 
-Let's me<kai.han@nio.com> know your thoughts and feedback. 
+Let's [me](mailto:kai.han@nio.com) know your thoughts and feedback. 
 
